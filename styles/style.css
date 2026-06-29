@@ -204,3 +204,8 @@ textarea{
     /* display: flex; */
     justify-content: left;
 }
+.contact-form{
+    background-color: #FFF8F3;
+    margin-top: 30px;
+    padding-top: 100px;
+}
