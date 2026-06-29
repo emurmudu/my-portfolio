@@ -125,3 +125,14 @@ body{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     /* font-size: 14px; */
 }
+
+.resume-container{
+    display: flex;
+    gap: 50px;
+    /* max-width: 1140px;
+    margin: 0 auto; */
+    
+
+    /* column-span: 2; */
+    /* flex-direction:column; */
+}
